@@ -1,0 +1,38 @@
+ggfffbcdefffgg
+aabbccdd
+intestines
+antiperspirantes
+appeases
+arraigning
+hotshots
+arraigning
+teammate
+appall
+beriberi
+bilabial
+coco
+couscous
+tutu
+
+
+Test 2
+
+1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9
+
+
+ *  Compilation:  javac WidthChecker.java
+ *  Execution:    java WidthChecker N < source.java
+ *  Dependencies: StdIn.java
+ *  
+ *  Reads in a text file and prints out all lines that have (strictly)
+ *  more than N characters (including spaces but not the newline 
+ *  character itself).
+ *
+ *  Note: setting parameter N = -1 prints out all lines with line numbers. 1 2 3 a b c 
+a
+c
+v
+b
+n
+m
+abcdefg

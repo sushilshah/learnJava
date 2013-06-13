@@ -1,0 +1,1 @@
+The file "primes.txt" was generated using the included jar PrimeGenerator, with 5 threads finding all primes up to 5000000. Not that you really need it.

@@ -1,0 +1,1 @@
+Both folders above contain identical information, however in java files it is stored as a .java file, and in plaintext it is stored as .txt files. :)
